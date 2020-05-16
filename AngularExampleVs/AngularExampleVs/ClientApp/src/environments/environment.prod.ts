@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  appUrl: 'https://exampleangular511.azurewebsites.net/'
+  appUrl: 'https://exampleangularXXX.azurewebsites.net/'
 };
